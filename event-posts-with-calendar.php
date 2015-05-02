@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Event Posts with Calendar
-Plugin URI: http://parcodeisuoni.net/wp-tools/plugins
+Plugin URI: http://parcodeisuoni.net/
 Description: Creates an Event post type with custom date based archives, also includes a modified version of the default Wordpress calendar widget specific for Events, as well as a set of rewrite rules for pretty-permalinks.
 Version: 1.0
 Author: Marcello Liberato
-Author URI: http://parcodeisuoni.net/wp-tools/about
+Author URI: http://parcodeisuoni.net/
 License: GPLv2
 */
 /*
